@@ -5,6 +5,7 @@ import sys
 
 def main(file_):
     """
+    2022/01: Calorie Counting
     Find the elf with the most calories
     """
     d = dict()
